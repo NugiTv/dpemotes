@@ -2706,6 +2706,22 @@ DP.PropEmotes = {
         EmoteMoving = true,
         EmoteLoop = true,
    }},
+   ["drink6"] = {"mp_player_intdrink", "loop_bottle", "Drinking BS Soda", AnimationOptions =
+   {
+        Prop = 'ng_proc_sodacup_01a',
+        PropBone = 18905,
+        PropPlacement = {0.08, -0.2, 0.03, 240.0, -60.0},
+        EmoteMoving = true,
+        EmoteLoop = true,
+   }},
+   ["drink7"] = {"mp_player_intdrink", "loop_bottle", "Drinking BS Soda 2", AnimationOptions =
+   {
+        Prop = 'ng_proc_sodacup_01b',
+        PropBone = 18905,
+        PropPlacement = {0.08, -0.2, 0.03, 240.0, -60.0},
+        EmoteMoving = true,
+        EmoteLoop = true,
+   }},
    ["egobar"] = {"mp_player_inteat@burger", "mp_player_int_eat_burger", "Ego Bar", AnimationOptions =
    {
       Prop = 'prop_choc_ego',
