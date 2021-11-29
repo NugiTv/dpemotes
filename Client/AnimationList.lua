@@ -2650,6 +2650,13 @@ DP.PropEmotes = {
       PropPlacement = {0.13, 0.05, 0.02, -50.0, 16.0, 60.0},
       EmoteMoving = true,
    }},
+   ["taco"] = {"mp_player_inteat@burger", "mp_player_int_eat_burger", "Taco", AnimationOptions =
+   {
+      Prop = 'prop_taco_01',
+      PropBone = 18905,
+      PropPlacement = {0.13, 0.05, 0.02, 50.0, 26.0, 160.0},
+      EmoteMoving = true,
+   }},
    ["soda"] = {"amb@world_human_drinking@coffee@male@idle_a", "idle_c", "Soda", AnimationOptions =
    {
       Prop = 'prop_ecola_can',
